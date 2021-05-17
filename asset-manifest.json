@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Calculator-J/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Calculator-J/static/js/main.e1d610a9.chunk.js",
+    "main.js.map": "/Calculator-J/static/js/main.e1d610a9.chunk.js.map",
+    "runtime-main.js": "/Calculator-J/static/js/runtime-main.2d57930d.js",
+    "runtime-main.js.map": "/Calculator-J/static/js/runtime-main.2d57930d.js.map",
+    "static/js/2.639dd6d6.chunk.js": "/Calculator-J/static/js/2.639dd6d6.chunk.js",
+    "static/js/2.639dd6d6.chunk.js.map": "/Calculator-J/static/js/2.639dd6d6.chunk.js.map",
+    "static/js/3.e97af134.chunk.js": "/Calculator-J/static/js/3.e97af134.chunk.js",
+    "static/js/3.e97af134.chunk.js.map": "/Calculator-J/static/js/3.e97af134.chunk.js.map",
+    "index.html": "/Calculator-J/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Calculator-J/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.639dd6d6.chunk.js.LICENSE.txt": "/Calculator-J/static/js/2.639dd6d6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Calculator-J/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d57930d.js",
+    "static/js/2.639dd6d6.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.e1d610a9.chunk.js"
+  ]
+}
